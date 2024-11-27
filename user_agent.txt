@@ -1,1 +1,6 @@
-
+OneTrust
+Googlebot
+Bingbot
+YandexBot
+Twitterbot
+Discordbot
